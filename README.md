@@ -10,7 +10,7 @@ This project is an interactive escape-room style puzzle implemented in MATLAB, i
 -Force and light sensor integration with Arduino UNO.
 -Audio feedback via Arduino speaker.
 -Key collection and door unlocking mechanics.
--Custom sprite sheet was used to create the map of the game, characters, and objects.
+-Custom sprite sheet was used to create the map of the game, characters, and objects (Attached sprite sheet PNG may not be in synch with the current version of the uploaded game.
 
 ## Hardware and Software Requirements
 -Arduino UNO
